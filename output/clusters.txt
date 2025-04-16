@@ -1,0 +1,18 @@
+Cluster 0
+people (12), everyone (7), issue (4), argument (3), care (3), mental health (3), opinion (3), attitude (2), behaviour (2), doctor (2), 
+
+Cluster 1
+thing (17), anything (8), one (7), stuff (6), help (5), something (5), everything (4), answer (3), bad (3), exactly (3), 
+
+Cluster 2
+mom (15), kid (12), money (10), daughter (6), parent (6), aunt (5), brother (5), child (4), girl (3), mother (3), 
+
+Cluster 3
+friend (23), partner (14), gf (10), husband (9), bf (7), wife (7), fiance (5), sex (5), guy (4), wedding (4), 
+
+Cluster 4
+cat (9), bathroom (4), dish (4), house (4), dog (3), dust allergy (3), poo (3), barber (2), bowl (2), cat food (2), 
+
+Cluster 5
+name (11), call (5), chore (4), job (4), work (4), card (3), drink (3), event (3), fun (3), game (3), 
+
