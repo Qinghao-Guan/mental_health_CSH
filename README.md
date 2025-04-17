@@ -6,3 +6,4 @@ This repository is for the paper **Mental Distress in English Posts from *r/AmIT
 - **Narrative analysis**: This folder includes the *relatio* package and the implementation of our narrative analysis using this tool.
 - **output**: This folder contains visualizations of our results, along with the output files from the narrative analysis.
 - **training details**: This folder includes visualizations of the training process for the sentiment analysis models.
+![image](https://github.com/user-attachments/assets/0b8b439f-f3f4-4d34-8c55-58986a690311)
